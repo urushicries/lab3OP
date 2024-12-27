@@ -1,0 +1,9 @@
+C:\Users\urushi\source\repos\classlibrarylab8\classlibrarylab8\bin\Debug\classlibrarylab8.dll.config
+C:\Users\urushi\source\repos\classlibrarylab8\classlibrarylab8\bin\Debug\classlibrarylab8.dll
+C:\Users\urushi\source\repos\classlibrarylab8\classlibrarylab8\bin\Debug\classlibrarylab8.pdb
+C:\Users\urushi\source\repos\classlibrarylab8\classlibrarylab8\obj\Debug\classlibrarylab8.csproj.AssemblyReference.cache
+C:\Users\urushi\source\repos\classlibrarylab8\classlibrarylab8\obj\Debug\classlibrarylab8.Properties.Resources.resources
+C:\Users\urushi\source\repos\classlibrarylab8\classlibrarylab8\obj\Debug\classlibrarylab8.csproj.GenerateResource.cache
+C:\Users\urushi\source\repos\classlibrarylab8\classlibrarylab8\obj\Debug\classlibrarylab8.csproj.CoreCompileInputs.cache
+C:\Users\urushi\source\repos\classlibrarylab8\classlibrarylab8\obj\Debug\classlibrarylab8.dll
+C:\Users\urushi\source\repos\classlibrarylab8\classlibrarylab8\obj\Debug\classlibrarylab8.pdb
