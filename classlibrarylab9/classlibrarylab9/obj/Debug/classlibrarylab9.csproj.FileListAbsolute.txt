@@ -1,0 +1,9 @@
+C:\Users\urushi\source\repos\classlibrarylab9\classlibrarylab9\bin\Debug\classlibrarylab9.pdb
+C:\Users\urushi\source\repos\classlibrarylab9\classlibrarylab9\obj\Debug\classlibrarylab9.csproj.AssemblyReference.cache
+C:\Users\urushi\source\repos\classlibrarylab9\classlibrarylab9\obj\Debug\classlibrarylab9.Properties.Resources.resources
+C:\Users\urushi\source\repos\classlibrarylab9\classlibrarylab9\obj\Debug\classlibrarylab9.csproj.GenerateResource.cache
+C:\Users\urushi\source\repos\classlibrarylab9\classlibrarylab9\obj\Debug\classlibrarylab9.csproj.CoreCompileInputs.cache
+C:\Users\urushi\source\repos\classlibrarylab9\classlibrarylab9\obj\Debug\classlibrarylab9.pdb
+C:\Users\urushi\source\repos\classlibrarylab9\classlibrarylab9\bin\Debug\classlibrarylab9.exe.config
+C:\Users\urushi\source\repos\classlibrarylab9\classlibrarylab9\bin\Debug\classlibrarylab9.exe
+C:\Users\urushi\source\repos\classlibrarylab9\classlibrarylab9\obj\Debug\classlibrarylab9.exe

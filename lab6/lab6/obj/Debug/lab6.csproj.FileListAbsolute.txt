@@ -1,0 +1,13 @@
+C:\Users\urushi\source\repos\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+C:\Users\urushi\source\repos\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\urushi\source\repos\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\urushi\source\repos\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\urushi\source\repos\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\urushi\source\repos\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\urushi\source\repos\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\urushi\source\repos\lab6\lab6\bin\Debug\lab6classes.dll
+C:\Users\urushi\source\repos\lab6\lab6\bin\Debug\lab6classes.pdb
+C:\Users\urushi\source\repos\lab6\lab6\bin\Debug\lab6classes.dll.config
+C:\Users\urushi\source\repos\lab6\lab6\obj\Debug\lab6.csproj.Up2Date
+C:\Users\urushi\source\repos\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\urushi\source\repos\lab6\lab6\obj\Debug\lab6.pdb
