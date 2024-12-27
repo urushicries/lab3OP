@@ -1,0 +1,9 @@
+C:\Users\urushi\source\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.AssemblyReference.cache
+C:\Users\urushi\source\repos\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+C:\Users\urushi\source\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+C:\Users\urushi\source\repos\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\urushi\source\repos\Lab8\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\urushi\source\repos\Lab8\Lab8\bin\Debug\Lab8.exe
+C:\Users\urushi\source\repos\Lab8\Lab8\bin\Debug\Lab8.pdb
+C:\Users\urushi\source\repos\Lab8\Lab8\obj\Debug\Lab8.exe
+C:\Users\urushi\source\repos\Lab8\Lab8\obj\Debug\Lab8.pdb
