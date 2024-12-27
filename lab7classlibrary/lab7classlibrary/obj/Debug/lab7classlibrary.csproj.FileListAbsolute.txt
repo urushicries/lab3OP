@@ -1,0 +1,9 @@
+C:\Users\urushi\source\repos\lab7classlibrary\lab7classlibrary\bin\Debug\lab7classlibrary.pdb
+C:\Users\urushi\source\repos\lab7classlibrary\lab7classlibrary\obj\Debug\lab7classlibrary.csproj.AssemblyReference.cache
+C:\Users\urushi\source\repos\lab7classlibrary\lab7classlibrary\obj\Debug\lab7classlibrary.Properties.Resources.resources
+C:\Users\urushi\source\repos\lab7classlibrary\lab7classlibrary\obj\Debug\lab7classlibrary.csproj.GenerateResource.cache
+C:\Users\urushi\source\repos\lab7classlibrary\lab7classlibrary\obj\Debug\lab7classlibrary.csproj.CoreCompileInputs.cache
+C:\Users\urushi\source\repos\lab7classlibrary\lab7classlibrary\obj\Debug\lab7classlibrary.pdb
+C:\Users\urushi\source\repos\lab7classlibrary\lab7classlibrary\bin\Debug\lab7classlibrary.dll.config
+C:\Users\urushi\source\repos\lab7classlibrary\lab7classlibrary\bin\Debug\lab7classlibrary.dll
+C:\Users\urushi\source\repos\lab7classlibrary\lab7classlibrary\obj\Debug\lab7classlibrary.dll
